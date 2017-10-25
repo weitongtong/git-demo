@@ -1,1 +1,1 @@
-var bb = 12s
+var bb = 12
