@@ -1,0 +1,30 @@
+{
+  "name": "git-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commitizen": "^3.1.1",
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weitongtong/git-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weitongtong/git-demo/issues"
+  },
+  "homepage": "https://github.com/weitongtong/git-demo#readme"
+}
