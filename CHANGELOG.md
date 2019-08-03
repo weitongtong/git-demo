@@ -7,6 +7,7 @@
 * 添加 11 ([b2eb870](https://github.com/weitongtong/git-demo/commit/b2eb870))
 * 添加 22 ([a81373e](https://github.com/weitongtong/git-demo/commit/a81373e))
 * 添加 33 ([252b847](https://github.com/weitongtong/git-demo/commit/252b847))
+* 添加 44 ([5a0a49e](https://github.com/weitongtong/git-demo/commit/5a0a49e))
 * 添加 aa.js ([7304ad6](https://github.com/weitongtong/git-demo/commit/7304ad6))
 * 第一次提交1 ([a03c607](https://github.com/weitongtong/git-demo/commit/a03c607))
 * **111:** 111 ([b7563c7](https://github.com/weitongtong/git-demo/commit/b7563c7))
